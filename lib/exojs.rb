@@ -1,5 +1,5 @@
-require_relative 'exojs/version'
-
 module ExoJS
 
 end
+
+require_relative 'exojs/version'
