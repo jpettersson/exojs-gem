@@ -7,7 +7,7 @@ Documentation
 -------------
 Library documentation can be found at the [source repository](https://github.com/jpettersson/exo.js).
 
-Use with Rails
+Use with Rails or Middleman
 -----
 
 Add to Gemfile & bundle:
