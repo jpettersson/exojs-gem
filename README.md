@@ -5,12 +5,13 @@ This is a gem distribution of the [Exo.js](https://github.com/jpettersson/exo.js
 
 Documentation
 -------------
+Library documentation can be found at the [source repository](https://github.com/jpettersson/exo.js).
 
 Use with Rails
 -----
 
 Add to Gemfile & bundle:
-```
+```Ruby
 gem 'exojs'
 ```
 
