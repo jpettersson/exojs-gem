@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Jonathan Pettersson"]
   s.email       = ["jonathan@spacetofu.com"]
   s.homepage    = ""
-  s.summary     = %q{Makes the Exo.js library available through Sprockets}
+  s.summary     = %q{Serves you the Exo.js library through Sprockets}
   s.description = s.summary
 
   s.rubyforge_project = "exojs"
