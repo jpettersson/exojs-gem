@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = ExoJS::VERSION
   s.authors     = ["Jonathan Pettersson"]
   s.email       = ["jonathan@spacetofu.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jpettersson/exojs-gem"
   s.summary     = %q{Serves you the Exo.js library through Sprockets}
   s.description = s.summary
 
